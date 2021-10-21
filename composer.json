@@ -1,0 +1,24 @@
+{
+    "name": "simplexi/greeting",
+    "description": "Greetr -A simple laravel package",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "dhara1507",
+            "email": "dharasorathiya111@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Simplexi\\Greetr\\": "src/"
+        }
+    },
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/dhara1507/greetr.git"
+        }
+    ]
+}
