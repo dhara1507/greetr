@@ -1,5 +1,5 @@
 {
-    "name": "simplexi/greeting",
+    "name": "simplexigreeting/greeting",
     "description": "Greetr -A simple laravel package",
     "type": "project",
     "license": "MIT",
